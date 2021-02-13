@@ -4,10 +4,10 @@ This is a basic app I made to practise my Flutter skills. This app can be used b
 
 ### Screenshots of the app
 ##### This is the homescreen in the morning (this is shown when you open the app)
-<img src="https://github.com/wesleynoijen/flutter_world_time_app/blob/master/images/Homescreen_1.jpg" width="375" height="800">
+<img src="images/vietnam-home.png" width="375" height="800">
 
 ##### This is the homescreen in the morning (this is shown when you open the app)
-<img src="https://github.com/wesleynoijen/flutter_world_time_app/blob/master/images/Homescreen_2.jpg" width="375" height="800">
+<img src="images/Homescreen_2.jpg" width="375" height="800">
 
 ##### This is the selection screen (this opens when the "edit location" button is clicked)
-<img src="https://github.com/wesleynoijen/flutter_world_time_app/blob/master/images/Selection_screen.jpg" width="375" height="800">
+<img src="images/selection-page.png" width="375" height="800">
